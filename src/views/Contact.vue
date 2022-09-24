@@ -81,7 +81,7 @@
             </div>         
         </template>
         <template v-slot:image>
-            <img class="w-full md:w-4/5 z-50" src="/header_img.png" />
+            <img class="w-full md:w-4/5 z-50" alt="appet-technology-home-header" src="/header_img.png" />
         </template>
     </Header>
     <Footer :isSticky="true" />

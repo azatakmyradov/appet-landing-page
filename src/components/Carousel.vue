@@ -51,7 +51,7 @@
     </div>
     <div class="flex flex-col sm:flex-row items-center py-4 container mx-auto">
         <div class="px-20 flex items-center max-w-[60%] sm:max-w-[40%]">
-            <img src="/logo.png" alt="">
+            <img src="/logo.png" alt="logo">
         </div>
         <div class="flex flex-col justify-center max-w-[80%] sm:max-w-[60%]">
             <div>
